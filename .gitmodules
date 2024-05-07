@@ -1,0 +1,6 @@
+[submodule "TIM-AssetLibrary"]
+	path = TIM-AssetLibrary
+	url = https://github.com/wirelessbramhan/TIM-AssetLibrary.git
+[submodule "portfolio_WGL_URP/Assets/TIM-unity-systems"]
+	path = portfolio_WGL_URP/Assets/TIM-unity-systems
+	url = https://github.com/wirelessbramhan/TIM-unity-systems.git
